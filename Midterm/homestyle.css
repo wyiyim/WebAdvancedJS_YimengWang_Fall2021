@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "Architects Daughter";
+  src: url("https://cdn.glitch.com/23800b29-8b25-4147-a6c1-401705eebfa2%2FArchitectsDaughter-Regular.ttf?v=1619546268752");
+  font-style: normal;
+}
+
+h3 {
+  position: absolute;
+  width: 1177px;
+  height: 141px;
+  left: 132px;
+  top: 40px;
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 34px;
+  line-height: 47px;
+  color: #000000;
+  z-index: 100;
+}
+
+h4 {
+  font-family: Architects Daughter;
+  color: #000000;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.background {
+  position: absolute;
+  width: 1159px;
+  height: 750px;
+  left: 260px;
+  top: 200px;
+}
+
+.button1 {
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  z-index: 100;
+}
+
+.button1:hover {
+  text-shadow: 0px 0px 10px #38BB49;
+  font-style: italic;
+}
+
+.button2 {
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  z-index: 100;
+}
+
+.button2:hover {
+  text-shadow: 0px 0px 10px #FFE64E;
+  font-style: italic;
+}
+
+.button3 {
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  z-index: 100;
+}
+
+.button3:hover {
+  text-shadow: 0px 0px 10px #EF8846;
+  font-style: italic;
+}
+
+.button4 {
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  z-index: 100;
+}
+
+.button4:hover {
+  text-shadow: 0px 0px 10px #81CEF2;
+  font-style: italic;
+}
+
+.box {
+  margin-top: 40px;
+  margin-bottom: 50px;
+}
+
+.one {
+  position: absolute;
+  width: 57px;
+  height: 65px;
+  left: 147px;
+  top: 281px;
+}
+
+.two {
+  position: absolute;
+  width: 66px;
+  height: 64px;
+  left: 142px;
+  top: 425px;
+}
+
+.three {
+  position: absolute;
+  width: 72px;
+  height: 63px;
+  left: 140px;
+  top: 569px;
+}
+
+.four {
+  position: absolute;
+  width: 64px;
+  height: 70px;
+  left: 143px;
+  top: 705px;
+}
+
+.bottomleft {
+  font-size: 20px;
+  text-decoration: none;
+  position: absolute;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  width: 249px;
+  height: 30px;
+  left: 150px;
+  top: 900px;
+}
+
+.bottomright {
+  font-size: 20px;
+  text-decoration: none;
+  position: absolute;
+  width: 148px;
+  height: 30px;
+  left: 1120px;
+  top: 900px;
+  padding-top: 80px;
+  padding-bottom: 30px;
+}
