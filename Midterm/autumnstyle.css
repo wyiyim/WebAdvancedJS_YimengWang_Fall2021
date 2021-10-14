@@ -1,0 +1,331 @@
+@font-face {
+  font-family: "Architects Daughter";
+  src: url("https://cdn.glitch.com/23800b29-8b25-4147-a6c1-401705eebfa2%2FArchitectsDaughter-Regular.ttf?v=1619546268752");
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Juana";
+  src: url("https://cdn.glitch.com/23800b29-8b25-4147-a6c1-401705eebfa2%2FJuana-Light.otf?v=1620172753924");
+  font-style: normal;
+}
+
+.spring {
+  position: absolute;
+  width: 31px;
+  height: 34px;
+  left: 117px;
+  top: 222px;
+  opacity: 0.5;
+}
+
+.summer {
+  position: absolute;
+  width: 34px;
+  height: 33px;
+  left: 115px;
+  top: 274px;
+  opacity: 0.5;
+}
+
+.autumn {
+  position: absolute;
+  width: 32px;
+  height: 28px;
+  left: 115px;
+  top: 126px;
+}
+
+.winter {
+  position: absolute;
+  width: 29px;
+  height: 32px;
+  left: 117px;
+  top: 172px;
+  opacity: 0.5;
+}
+
+h2 {
+  position: absolute;
+  width: 348px;
+  height: 50px;
+  left: 182px;
+  top: 88px;
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 36px;
+  line-height: 50px;
+  color: #000000;
+}
+
+h3 {
+  position: absolute;
+  width: 202px;
+  height: 28px;
+  left: 182px;
+  top: 494px;
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+}
+
+p {
+  position: absolute;
+  width: 439px;
+  height: 120px;
+  left: 182px;
+  top: 158px;
+  font-family: Juana;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  color: #565656;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.container {
+  position: absolute;
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+  width: 400px;
+  height: 540px;
+  left: 905px;
+  top: 111px;
+}
+
+.outline {
+  width: 120px;
+  height: 120px;
+  border: 1px solid #E0E0E0;
+  margin: 10px;
+}
+
+.create {
+  position: absolute;
+  width: 130px;
+  height: 50px;
+  left: 700px;
+  top: 354px;
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 25px;
+  color: #000000;
+  transform: rotate(-9deg);
+}
+
+.arrow {
+  position: absolute;
+  width: 49px;
+  height: 54px;
+  left: 828px;
+  top: 354px;
+  transform: rotate(-90deg);
+}
+
+.colorcontainer {
+  position: absolute;
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 10px;
+  width: 245px;
+  height: 110px;
+  left: 170px;
+  top: 541px;
+}
+
+.colorbox1 {
+  width: 50px;
+  height: 50px;
+  background: #242424;
+  margin: 5px;
+}
+
+.colorbox2 {
+  width: 50px;
+  height: 50px;
+  background: #2F2C4A;
+  margin: 5px;
+}
+
+.colorbox3 {
+  width: 50px;
+  height: 50px;
+  background: #0E44A0;
+  margin: 5px;
+}
+
+.colorbox4 {
+  width: 50px;
+  height: 50px;
+  background: #9AC1DD;
+  margin: 5px;
+}
+
+.colorbox5 {
+  width: 50px;
+  height: 50px;
+  background: #26542B;
+  margin: 5px;
+}
+
+.colorbox6 {
+  width: 50px;
+  height: 50px;
+  background: #DE7F1E;
+  margin: 5px;
+}
+
+.colorbox7 {
+  width: 50px;
+  height: 50px;
+  background: #D0A176;
+  margin: 5px;
+}
+
+.colorbox8 {
+  width: 50px;
+  height: 50px;
+  background: #FFF8E5;
+  margin: 5px;
+}
+
+.photo1 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 833px;
+  top: 139px;
+}
+
+.photo2 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 905px;
+  top: 179px;
+}
+
+.photo3 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 882px;
+  top: 313px;
+}
+
+.photo4 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 925px;
+  top: 446px;
+}
+
+.photo5 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 855px;
+  top: 508px;
+}
+
+.photo6 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1219px;
+  top: 79px;
+}
+
+.photo7 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1279px;
+  top: 162px;
+}
+
+.photo8 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1115px;
+  top: 222px;
+}
+
+.photo9 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1192px;
+  top: 271px;
+}
+
+.photo10 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1225px;
+  top: 471px;
+}
+
+.photo11 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1085px;
+  top: 506px;
+}
+
+.photo12 {
+  position: absolute;
+  width: 120px;
+  height: 120px;
+  left: 1165px;
+  top: 566px;
+}
+
+.back {
+  position: absolute;
+  width: 60px;
+  height: 33px;
+  left: 125px;
+  top: 809px;
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  padding-bottom: 40px;
+}
+
+.index {
+  position: absolute;
+  width: 60px;
+  height: 33px;
+  left: 1252px;
+  top: 809px;
+  font-family: Architects Daughter;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 33px;
+  text-align: center;
+  color: #000000;
+  padding-bottom: 40px;
+}
