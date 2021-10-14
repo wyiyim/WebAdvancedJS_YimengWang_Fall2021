@@ -1,0 +1,12 @@
+$(".photo1").draggable();
+$(".photo2").draggable();
+$(".photo3").draggable();
+$(".photo4").draggable();
+$(".photo5").draggable();
+$(".photo6").draggable();
+$(".photo7").draggable();
+$(".photo8").draggable();
+$(".photo9").draggable();
+$(".photo10").draggable();
+$(".photo11").draggable();
+$(".photo12").draggable();
