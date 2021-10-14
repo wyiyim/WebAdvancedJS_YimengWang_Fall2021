@@ -1,0 +1,81 @@
+@font-face {
+  font-family: "Architects Daughter";
+  src: url("https://cdn.glitch.com/23800b29-8b25-4147-a6c1-401705eebfa2%2FArchitectsDaughter-Regular.ttf?v=1619546268752");
+  font-style: normal;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-indent: 0;
+  text-decoration: none;
+}
+
+body {
+  background-color: white;
+}
+
+h1 {
+  font-family: Architects Daughter, sans-serif;
+  margin: 100px 0 30px 1%;
+  color: black;
+  font-size: 30px;
+}
+
+h2 {
+  font-family: Architects Daughter, sans-serif;
+  margin: 20px 0 20px 0;
+  color: black;
+  font-size: calc(1rem + 1vw);
+}
+
+h3 {
+  font-family: Architects Daughter, sans-serif;
+  color: black;
+}
+
+.index-list {
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.index-container {
+  width: 14%;
+  padding: 1%;
+  float: left;
+}
+
+.index-image {
+  width: 100%;
+}
+
+.back {
+  font-family: Architects Daughter;
+  font-size: 20px;
+  text-decoration: none;
+  position: absolute;
+  top: 40px;
+  left: 70px;
+  margin: 10px;
+  color: #000000;
+}
+
+.bottomleft {
+  font-size: 15px;
+  text-decoration: none;
+  position: absolute;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  margin-left: 80px;
+}
+
+.bottomright {
+  font-size: 15px;
+  text-decoration: none;
+  position: absolute;
+  padding-top: 80px;
+  padding-bottom: 30px;
+  right: 100px;
+}
